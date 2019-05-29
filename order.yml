@@ -14,5 +14,6 @@ spring:
     show-sql: true
 server:
   port: 8091
-sex:
-  name: 1
+girl: 
+  name: lili
+  age: 18
