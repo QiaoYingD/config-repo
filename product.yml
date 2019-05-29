@@ -1,4 +1,5 @@
 env: dev
+spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql:///sell?characterEncoding=utf-8&useSSL=false
