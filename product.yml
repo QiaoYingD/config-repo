@@ -10,7 +10,7 @@ spring:
   jpa:
     show-sql: true
 server:
-  port: 8090
+  port: 8091
 mybatis:
   type-aliases-package: com.imooc.project.model
   mapper-locations: classpath:mapper/*.xml
