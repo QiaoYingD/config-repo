@@ -1,14 +1,4 @@
 env: dev
-spring:
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql:///sell?characterEncoding=utf-8&useSSL=false
-    username: root
-    password: root
-  jpa:
-    show-sql: true
 server:
   port: 8091
-mybatis:
-  type-aliases-package: com.imooc.project.model
-  mapper-locations: classpath:mapper/*.xml
+
