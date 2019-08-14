@@ -4,5 +4,6 @@ server:
 girl: 
   name: lili
   age: 19
-
+mybatis:
+  mapper-locations: mapper/**/*.xml
 
