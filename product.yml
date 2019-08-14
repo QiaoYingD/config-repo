@@ -6,4 +6,5 @@ girl:
   age: 19
 mybatis:
   mapper-locations: mapper/**/*.xml
+  type-aliases-package: com.imooc.sellproduct.model
 
