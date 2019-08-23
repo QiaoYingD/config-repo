@@ -10,3 +10,6 @@ server:
 mybatis:
   mapper-locations: mapper/**/*.xml
   type-aliases-package: com.imooc.sellproduct.model
+  jpa:
+    show-sql: true
+
